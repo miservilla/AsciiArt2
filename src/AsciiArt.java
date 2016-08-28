@@ -6,7 +6,7 @@ public class AsciiArt {
 
     /**
      * Prints my name in ASCII Art to the console.
-     * @param args Comand-Line arguments are ignored.
+     * @param args Command-Line arguments are ignored.
      */
 
     public static void main(String[] args){
